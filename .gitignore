@@ -1,0 +1,16 @@
+$ cat .gitignore
+
+# Can ignore specific files
+#.DS_Store
+
+# Use wildcards as well
+#*~
+*#.swp
+*.brd
+*.sch
+
+# Can also ignore all directories and files in a directory.
+#tmp/**/*
+04_Docs/NOT FOR RELEASE 
+05_Gerber
+99_Archiv
